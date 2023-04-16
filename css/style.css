@@ -502,7 +502,7 @@ ul {
 /****  5-1 - ABOUT ****/
 
 .section-about {
-    margin-top: 40px;
+    margin-top: 80px;
     margin-bottom: 75px;
 }
 
@@ -658,6 +658,7 @@ ul {
 .section-education .education-content {
     margin-bottom: 30px;
     padding: 30px;
+    min-height: 253px;
 }
 
 .section-education h3 {
