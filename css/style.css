@@ -195,6 +195,14 @@ ul {
     border-right-color: #bda038;
 }
 
+.section-education .plan h3 {
+    background-color: #2eac6d;
+}
+.section-education .plan h3::before {
+    border-top-color: #22724a;
+    border-right-color: #22724a;
+}
+
 /**** CONTENT ****/
 
 .content {
