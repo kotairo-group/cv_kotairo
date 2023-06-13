@@ -187,12 +187,12 @@ ul {
     font-size: 14px;
 }
 
-.section-education .award h3 {
-    background-color: #e4c144;
+.section-education .waiting h3 {
+    background-color: #4454e4;
 }
-.section-education .award h3::before {
-    border-top-color: #bda038;
-    border-right-color: #bda038;
+.section-education .waiting h3::before {
+    border-top-color: #3869bd;
+    border-right-color: #3869bd;
 }
 
 .section-education .plan h3 {
