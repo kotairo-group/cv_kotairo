@@ -173,6 +173,14 @@ ul {
     line-height: 28px;
 }
 
+
+.aLinkDefault {
+    color: #00adb5;
+}
+.aLinkDefault:hover {
+    color: #00adb5;
+    text-decoration: underline;
+}
 .aLink {
     color: blue;
 }
